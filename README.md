@@ -97,16 +97,6 @@ Aplicar conceitos de Inteligência Artificial e Redes Neurais Convolucionais na 
 
 ---
 
-## 🖼️ Exemplo de Resultado
-
-Você pode adicionar prints do notebook aqui futuramente:
-
-```md
-![Resultado](imagem.png)
-```
-
----
-
 ## 👩‍💻 Autora
 
 Eduarda Oliveira
