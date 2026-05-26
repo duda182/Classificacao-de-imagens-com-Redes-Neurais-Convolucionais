@@ -4,7 +4,7 @@ Aplicação capaz de classificar imagens em diferentes categorias usando redes n
 
 Projeto desenvolvido utilizando Redes Neurais Convolucionais (CNN) em Python.
 
-## Tecnologias usadas
+ Tecnologias usadas
 - Python
 - TensorFlow / Keras
 - Jupyter Notebook
